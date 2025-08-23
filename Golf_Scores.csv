@@ -1,0 +1,379 @@
+Date,Hole,Par,Score,Played With,Weather,Temperature (C),Wind (mph)
+30/06/2023,1,3,6,Ahmed,Partly Sunny,17,14.914
+30/06/2023,2,4,10,Ahmed,Partly Sunny,17,14.914
+30/06/2023,3,3,6,Ahmed,Partly Sunny,17,14.914
+30/06/2023,4,4,5,Ahmed,Partly Sunny,17,14.914
+30/06/2023,5,3,4,Ahmed,Partly Sunny,17,14.914
+30/06/2023,6,4,6,Ahmed,Partly Sunny,17,14.914
+30/06/2023,7,5,9,Ahmed,Partly Sunny,17,14.914
+30/06/2023,8,3,5,Ahmed,Partly Sunny,17,14.914
+30/06/2023,9,4,5,Ahmed,Partly Sunny,17,14.914
+30/06/2023,10,4,7,Ahmed,Partly Sunny,17,14.914
+30/06/2023,11,3,3,Ahmed,Partly Sunny,17,14.914
+30/06/2023,12,4,6,Ahmed,Partly Sunny,17,14.914
+30/06/2023,13,5,7,Ahmed,Partly Sunny,17,14.914
+30/06/2023,14,4,6,Ahmed,Partly Sunny,17,14.914
+30/06/2023,15,4,8,Ahmed,Partly Sunny,17,14.914
+30/06/2023,16,5,8,Ahmed,Partly Sunny,17,14.914
+30/06/2023,17,3,8,Ahmed,Partly Sunny,17,14.914
+30/06/2023,18,4,8,Ahmed,Partly Sunny,17,14.914
+05/07/2023,1,3,6,Ahmed,Partly Sunny,17.5,14.914
+05/07/2023,2,4,12,Ahmed,Partly Sunny,17.5,14.914
+05/07/2023,3,3,5,Ahmed,Partly Sunny,17.5,14.914
+05/07/2023,4,4,5,Ahmed,Partly Sunny,17.5,14.914
+05/07/2023,5,3,5,Ahmed,Partly Sunny,17.5,14.914
+05/07/2023,6,4,11,Ahmed,Partly Sunny,17.5,14.914
+05/07/2023,7,5,7,Ahmed,Partly Sunny,17.5,14.914
+05/07/2023,8,3,5,Ahmed,Partly Sunny,17.5,14.914
+05/07/2023,9,4,6,Ahmed,Partly Sunny,17.5,14.914
+05/07/2023,10,4,6,Ahmed,Partly Sunny,17.5,14.914
+05/07/2023,11,3,2,Ahmed,Partly Sunny,17.5,14.914
+05/07/2023,12,4,6,Ahmed,Partly Sunny,17.5,14.914
+05/07/2023,13,5,5,Ahmed,Partly Sunny,17.5,14.914
+05/07/2023,14,4,6,Ahmed,Partly Sunny,17.5,14.914
+05/07/2023,15,4,7,Ahmed,Partly Sunny,17.5,14.914
+05/07/2023,16,5,7,Ahmed,Partly Sunny,17.5,14.914
+05/07/2023,17,3,4,Ahmed,Partly Sunny,17.5,14.914
+05/07/2023,18,4,7,Ahmed,Partly Sunny,17.5,14.914
+11/07/2023,1,3,6,Ahmed,Partly Sunny,22,14.194
+11/07/2023,2,4,7,Ahmed,Partly Sunny,22,14.194
+11/07/2023,3,3,5,Ahmed,Partly Sunny,22,14.194
+11/07/2023,4,4,7,Ahmed,Partly Sunny,22,14.194
+11/07/2023,5,3,5,Ahmed,Partly Sunny,22,14.194
+11/07/2023,6,4,8,Ahmed,Partly Sunny,22,14.194
+11/07/2023,7,5,8,Ahmed,Partly Sunny,22,14.194
+11/07/2023,8,3,4,Ahmed,Partly Sunny,22,14.194
+11/07/2023,9,4,5,Ahmed,Partly Sunny,22,14.194
+11/07/2023,10,4,12,Ahmed,Partly Sunny,22,14.194
+11/07/2023,11,3,5,Ahmed,Partly Sunny,22,14.194
+11/07/2023,12,4,6,Ahmed,Partly Sunny,22,14.194
+11/07/2023,13,5,8,Ahmed,Partly Sunny,22,14.194
+11/07/2023,14,4,5,Ahmed,Partly Sunny,22,14.194
+11/07/2023,15,4,8,Ahmed,Partly Sunny,22,14.194
+11/07/2023,16,5,9,Ahmed,Partly Sunny,22,14.194
+11/07/2023,17,3,5,Ahmed,Partly Sunny,22,14.194
+11/07/2023,18,4,8,Ahmed,Partly Sunny,22,14.194
+13/07/2023,1,3,4,Ahmed,Partly Sunny,19,8.7
+13/07/2023,2,4,12,Ahmed,Partly Sunny,19,8.7
+13/07/2023,3,3,4,Ahmed,Partly Sunny,19,8.7
+13/07/2023,4,4,5,Ahmed,Partly Sunny,19,8.7
+13/07/2023,5,3,5,Ahmed,Partly Sunny,19,8.7
+13/07/2023,6,4,7,Ahmed,Partly Sunny,19,8.7
+13/07/2023,7,5,8,Ahmed,Partly Sunny,19,8.7
+13/07/2023,8,3,5,Ahmed,Partly Sunny,19,8.7
+13/07/2023,9,4,9,Ahmed,Partly Sunny,19,8.7
+13/07/2023,10,4,7,Ahmed,Partly Sunny,19,8.7
+13/07/2023,11,3,3,Ahmed,Partly Sunny,19,8.7
+13/07/2023,12,4,5,Ahmed,Partly Sunny,19,8.7
+13/07/2023,13,5,8,Ahmed,Partly Sunny,19,8.7
+13/07/2023,14,4,8,Ahmed,Partly Sunny,19,8.7
+13/07/2023,15,4,7,Ahmed,Partly Sunny,19,8.7
+13/07/2023,16,5,10,Ahmed,Partly Sunny,19,8.7
+13/07/2023,17,3,4,Ahmed,Partly Sunny,19,8.7
+13/07/2023,18,4,9,Ahmed,Partly Sunny,19,8.7
+26/07/2023,1,3,4,Ahmed,Sunny,20.5,11.807
+26/07/2023,2,4,8,Ahmed,Sunny,20.5,11.807
+26/07/2023,3,3,2,Ahmed,Sunny,20.5,11.807
+26/07/2023,4,4,5,Ahmed,Sunny,20.5,11.807
+26/07/2023,5,3,5,Ahmed,Sunny,20.5,11.807
+26/07/2023,6,4,6,Ahmed,Sunny,20.5,11.807
+26/07/2023,7,5,5,Ahmed,Sunny,20.5,11.807
+26/07/2023,8,3,6,Ahmed,Sunny,20.5,11.807
+26/07/2023,9,4,5,Ahmed,Sunny,20.5,11.807
+26/07/2023,10,4,5,Ahmed,Sunny,20.5,11.807
+26/07/2023,11,3,4,Ahmed,Sunny,20.5,11.807
+26/07/2023,12,4,7,Ahmed,Sunny,20.5,11.807
+26/07/2023,13,5,7,Ahmed,Sunny,20.5,11.807
+26/07/2023,14,4,6,Ahmed,Sunny,20.5,11.807
+26/07/2023,15,4,7,Ahmed,Sunny,20.5,11.807
+26/07/2023,16,5,8,Ahmed,Sunny,20.5,11.807
+26/07/2023,17,3,9,Ahmed,Sunny,20.5,11.807
+26/07/2023,18,4,7,Ahmed,Sunny,20.5,11.807
+27/07/2023,1,3,5,Ahmed + Dad,Partly Sunny,21,11.185
+27/07/2023,2,4,10,Ahmed + Dad,Partly Sunny,21,11.185
+27/07/2023,3,3,5,Ahmed + Dad,Partly Sunny,21,11.185
+27/07/2023,4,4,5,Ahmed + Dad,Partly Sunny,21,11.185
+27/07/2023,5,3,4,Ahmed + Dad,Partly Sunny,21,11.185
+27/07/2023,6,4,5,Ahmed + Dad,Partly Sunny,21,11.185
+27/07/2023,7,5,6,Ahmed + Dad,Partly Sunny,21,11.185
+27/07/2023,8,3,4,Ahmed + Dad,Partly Sunny,21,11.185
+27/07/2023,9,4,5,Ahmed + Dad,Partly Sunny,21,11.185
+27/07/2023,10,4,4,Ahmed + Dad,Partly Sunny,21,11.185
+27/07/2023,11,3,3,Ahmed + Dad,Partly Sunny,21,11.185
+27/07/2023,12,4,6,Ahmed + Dad,Partly Sunny,21,11.185
+27/07/2023,13,5,7,Ahmed + Dad,Partly Sunny,21,11.185
+27/07/2023,14,4,7,Ahmed + Dad,Partly Sunny,21,11.185
+27/07/2023,15,4,6,Ahmed + Dad,Partly Sunny,21,11.185
+27/07/2023,16,5,6,Ahmed + Dad,Partly Sunny,21,11.185
+27/07/2023,17,3,3,Ahmed + Dad,Partly Sunny,21,11.185
+27/07/2023,18,4,7,Ahmed + Dad,Partly Sunny,21,11.185
+30/07/2023,1,3,5,Ahmed + Dad + Ian,Drizzle,18,12.428
+30/07/2023,2,4,6,Ahmed + Dad + Ian,Drizzle,18,12.428
+30/07/2023,3,3,4,Ahmed + Dad + Ian,Drizzle,18,12.428
+30/07/2023,4,4,8,Ahmed + Dad + Ian,Drizzle,18,12.428
+30/07/2023,5,3,5,Ahmed + Dad + Ian,Drizzle,18,12.428
+30/07/2023,6,4,7,Ahmed + Dad + Ian,Drizzle,18,12.428
+30/07/2023,7,5,8,Ahmed + Dad + Ian,Drizzle,18,12.428
+30/07/2023,8,3,4,Ahmed + Dad + Ian,Drizzle,18,12.428
+30/07/2023,9,4,4,Ahmed + Dad + Ian,Drizzle,18,12.428
+30/07/2023,10,4,12,Ahmed + Dad + Ian,Drizzle,18,12.428
+30/07/2023,11,3,5,Ahmed + Dad + Ian,Drizzle,18,12.428
+30/07/2023,12,4,6,Ahmed + Dad + Ian,Drizzle,18,12.428
+30/07/2023,13,5,10,Ahmed + Dad + Ian,Drizzle,18,12.428
+30/07/2023,14,4,5,Ahmed + Dad + Ian,Drizzle,18,12.428
+30/07/2023,15,4,9,Ahmed + Dad + Ian,Drizzle,18,12.428
+30/07/2023,16,5,10,Ahmed + Dad + Ian,Drizzle,18,12.428
+30/07/2023,17,3,5,Ahmed + Dad + Ian,Drizzle,18,12.428
+30/07/2023,18,4,9,Ahmed + Dad + Ian,Drizzle,18,12.428
+07/08/2023,1,3,5,Ahmed,Sunny,20.5,11.185
+07/08/2023,2,4,7,Ahmed,Sunny,20.5,11.185
+07/08/2023,3,3,5,Ahmed,Sunny,20.5,11.185
+07/08/2023,4,4,4,Ahmed,Sunny,20.5,11.185
+07/08/2023,5,3,4,Ahmed,Sunny,20.5,11.185
+07/08/2023,6,4,5,Ahmed,Sunny,20.5,11.185
+07/08/2023,7,5,12,Ahmed,Sunny,20.5,11.185
+07/08/2023,8,3,5,Ahmed,Sunny,20.5,11.185
+07/08/2023,9,4,9,Ahmed,Sunny,20.5,11.185
+07/08/2023,10,4,9,Ahmed,Sunny,20.5,11.185
+07/08/2023,11,3,5,Ahmed,Sunny,20.5,11.185
+07/08/2023,12,4,5,Ahmed,Sunny,20.5,11.185
+07/08/2023,13,5,8,Ahmed,Sunny,20.5,11.185
+07/08/2023,14,4,5,Ahmed,Sunny,20.5,11.185
+07/08/2023,15,4,7,Ahmed,Sunny,20.5,11.185
+07/08/2023,16,5,12,Ahmed,Sunny,20.5,11.185
+07/08/2023,17,3,6,Ahmed,Sunny,20.5,11.185
+07/08/2023,18,4,12,Ahmed,Sunny,20.5,11.185
+10/08/2023,1,3,4,Ahmed,Partly Sunny,25,9.321
+10/08/2023,2,4,8,Ahmed,Partly Sunny,25,9.321
+10/08/2023,3,3,3,Ahmed,Partly Sunny,25,9.321
+10/08/2023,4,4,8,Ahmed,Partly Sunny,25,9.321
+10/08/2023,5,3,5,Ahmed,Partly Sunny,25,9.321
+10/08/2023,6,4,4,Ahmed,Partly Sunny,25,9.321
+10/08/2023,7,5,6,Ahmed,Partly Sunny,25,9.321
+10/08/2023,8,3,5,Ahmed,Partly Sunny,25,9.321
+10/08/2023,9,4,5,Ahmed,Partly Sunny,25,9.321
+10/08/2023,10,4,6,Ahmed,Partly Sunny,25,9.321
+10/08/2023,11,3,5,Ahmed,Partly Sunny,25,9.321
+10/08/2023,12,4,7,Ahmed,Partly Sunny,25,9.321
+10/08/2023,13,5,7,Ahmed,Partly Sunny,25,9.321
+10/08/2023,14,4,6,Ahmed,Partly Sunny,25,9.321
+10/08/2023,15,4,6,Ahmed,Partly Sunny,25,9.321
+10/08/2023,16,5,7,Ahmed,Partly Sunny,25,9.321
+10/08/2023,17,3,5,Ahmed,Partly Sunny,25,9.321
+10/08/2023,18,4,7,Ahmed,Partly Sunny,25,9.321
+14/08/2023,1,3,5,Ahmed,Partly Sunny,20.5,13.05
+14/08/2023,2,4,6,Ahmed,Partly Sunny,20.5,13.05
+14/08/2023,3,3,5,Ahmed,Partly Sunny,20.5,13.05
+14/08/2023,4,4,6,Ahmed,Partly Sunny,20.5,13.05
+14/08/2023,5,3,5,Ahmed,Partly Sunny,20.5,13.05
+14/08/2023,6,4,5,Ahmed,Partly Sunny,20.5,13.05
+14/08/2023,7,5,7,Ahmed,Partly Sunny,20.5,13.05
+14/08/2023,8,3,5,Ahmed,Partly Sunny,20.5,13.05
+14/08/2023,9,4,6,Ahmed,Partly Sunny,20.5,13.05
+14/08/2023,10,4,6,Ahmed,Partly Sunny,20.5,13.05
+14/08/2023,11,3,3,Ahmed,Partly Sunny,20.5,13.05
+14/08/2023,12,4,5,Ahmed,Partly Sunny,20.5,13.05
+14/08/2023,13,5,5,Ahmed,Partly Sunny,20.5,13.05
+14/08/2023,14,4,5,Ahmed,Partly Sunny,20.5,13.05
+14/08/2023,15,4,6,Ahmed,Partly Sunny,20.5,13.05
+14/08/2023,16,5,7,Ahmed,Partly Sunny,20.5,13.05
+14/08/2023,17,3,6,Ahmed,Partly Sunny,20.5,13.05
+14/08/2023,18,4,7,Ahmed,Partly Sunny,20.5,13.05
+16/08/2023,1,3,6,Ahmed + Dad  ,Partly Sunny,24,6.214
+16/08/2023,2,4,7,Ahmed + Dad  ,Partly Sunny,24,6.214
+16/08/2023,3,3,4,Ahmed + Dad  ,Partly Sunny,24,6.214
+16/08/2023,4,4,7,Ahmed + Dad  ,Partly Sunny,24,6.214
+16/08/2023,5,3,5,Ahmed + Dad  ,Partly Sunny,24,6.214
+16/08/2023,6,4,6,Ahmed + Dad  ,Partly Sunny,24,6.214
+16/08/2023,7,5,6,Ahmed + Dad  ,Partly Sunny,24,6.214
+16/08/2023,8,3,5,Ahmed + Dad  ,Partly Sunny,24,6.214
+16/08/2023,9,4,5,Ahmed + Dad  ,Partly Sunny,24,6.214
+16/08/2023,10,4,6,Ahmed + Dad  ,Partly Sunny,24,6.214
+16/08/2023,11,3,4,Ahmed + Dad  ,Partly Sunny,24,6.214
+16/08/2023,12,4,7,Ahmed + Dad  ,Partly Sunny,24,6.214
+16/08/2023,13,5,6,Ahmed + Dad  ,Partly Sunny,24,6.214
+16/08/2023,14,4,7,Ahmed + Dad  ,Partly Sunny,24,6.214
+16/08/2023,15,4,5,Ahmed + Dad  ,Partly Sunny,24,6.214
+16/08/2023,16,5,9,Ahmed + Dad  ,Partly Sunny,24,6.214
+16/08/2023,17,3,4,Ahmed + Dad  ,Partly Sunny,24,6.214
+16/08/2023,18,4,9,Ahmed + Dad  ,Partly Sunny,24,6.214
+23/08/2024,1,3,4,Ahmed,Sunny,21,14.914
+23/08/2024,2,4,9,Ahmed,Sunny,21,14.914
+23/08/2024,3,3,5,Ahmed,Sunny,21,14.914
+23/08/2024,4,4,5,Ahmed,Sunny,21,14.914
+23/08/2024,5,3,5,Ahmed,Sunny,21,14.914
+23/08/2024,6,4,6,Ahmed,Sunny,21,14.914
+23/08/2024,7,5,10,Ahmed,Sunny,21,14.914
+23/08/2024,8,3,5,Ahmed,Sunny,21,14.914
+23/08/2024,9,4,6,Ahmed,Sunny,21,14.914
+23/08/2024,10,4,6,Ahmed,Sunny,21,14.914
+23/08/2024,11,3,4,Ahmed,Sunny,21,14.914
+23/08/2024,12,4,5,Ahmed,Sunny,21,14.914
+23/08/2024,13,5,6,Ahmed,Sunny,21,14.914
+23/08/2024,14,4,7,Ahmed,Sunny,21,14.914
+23/08/2024,15,4,6,Ahmed,Sunny,21,14.914
+23/08/2024,16,5,8,Ahmed,Sunny,21,14.914
+23/08/2024,17,3,5,Ahmed,Sunny,21,14.914
+23/08/2024,18,4,10,Ahmed,Sunny,21,14.914
+30/08/2024,1,3,5,Ahmed,Sunny,22,9.321
+30/08/2024,2,4,8,Ahmed,Sunny,22,9.321
+30/08/2024,3,3,4,Ahmed,Sunny,22,9.321
+30/08/2024,4,4,6,Ahmed,Sunny,22,9.321
+30/08/2024,5,3,4,Ahmed,Sunny,22,9.321
+30/08/2024,6,4,8,Ahmed,Sunny,22,9.321
+30/08/2024,7,5,7,Ahmed,Sunny,22,9.321
+30/08/2024,8,3,5,Ahmed,Sunny,22,9.321
+30/08/2024,9,4,5,Ahmed,Sunny,22,9.321
+30/08/2024,10,4,6,Ahmed,Sunny,22,9.321
+30/08/2024,11,3,4,Ahmed,Sunny,22,9.321
+30/08/2024,12,4,5,Ahmed,Sunny,22,9.321
+30/08/2024,13,5,5,Ahmed,Sunny,22,9.321
+30/08/2024,14,4,5,Ahmed,Sunny,22,9.321
+30/08/2024,15,4,6,Ahmed,Sunny,22,9.321
+30/08/2024,16,5,7,Ahmed,Sunny,22,9.321
+30/08/2024,17,3,8,Ahmed,Sunny,22,9.321
+30/08/2024,18,4,7,Ahmed,Sunny,22,9.321
+06/09/2024,1,3,4,Ahmed,Fog,18,6.836
+06/09/2024,2,4,7,Ahmed,Fog,18,6.836
+06/09/2024,3,3,3,Ahmed,Fog,18,6.836
+06/09/2024,4,4,7,Ahmed,Fog,18,6.836
+06/09/2024,5,3,4,Ahmed,Fog,18,6.836
+06/09/2024,6,4,5,Ahmed,Fog,18,6.836
+06/09/2024,7,5,7,Ahmed,Fog,18,6.836
+06/09/2024,8,3,3,Ahmed,Fog,18,6.836
+06/09/2024,9,4,4,Ahmed,Fog,18,6.836
+06/09/2024,10,4,5,Ahmed,Fog,18,6.836
+06/09/2024,11,3,4,Ahmed,Fog,18,6.836
+06/09/2024,12,4,5,Ahmed,Fog,18,6.836
+06/09/2024,13,5,8,Ahmed,Fog,18,6.836
+06/09/2024,14,4,5,Ahmed,Fog,18,6.836
+06/09/2024,15,4,9,Ahmed,Fog,18,6.836
+06/09/2024,16,5,8,Ahmed,Fog,18,6.836
+06/09/2024,17,3,4,Ahmed,Fog,18,6.836
+06/09/2024,18,4,6,Ahmed,Fog,18,6.836
+09/09/2024,1,3,5,Ahmed,Partly Sunny,16,11.807
+09/09/2024,2,4,8,Ahmed,Partly Sunny,16,11.807
+09/09/2024,3,3,4,Ahmed,Partly Sunny,16,11.807
+09/09/2024,4,4,7,Ahmed,Partly Sunny,16,11.807
+09/09/2024,5,3,3,Ahmed,Partly Sunny,16,11.807
+09/09/2024,6,4,5,Ahmed,Partly Sunny,16,11.807
+09/09/2024,7,5,7,Ahmed,Partly Sunny,16,11.807
+09/09/2024,8,3,5,Ahmed,Partly Sunny,16,11.807
+09/09/2024,9,4,5,Ahmed,Partly Sunny,16,11.807
+09/09/2024,10,4,7,Ahmed,Partly Sunny,16,11.807
+09/09/2024,11,3,4,Ahmed,Partly Sunny,16,11.807
+09/09/2024,12,4,7,Ahmed,Partly Sunny,16,11.807
+09/09/2024,13,5,6,Ahmed,Partly Sunny,16,11.807
+09/09/2024,14,4,6,Ahmed,Partly Sunny,16,11.807
+09/09/2024,15,4,12,Ahmed,Partly Sunny,16,11.807
+09/09/2024,16,5,6,Ahmed,Partly Sunny,16,11.807
+09/09/2024,17,3,3,Ahmed,Partly Sunny,16,11.807
+09/09/2024,18,4,12,Ahmed,Partly Sunny,16,11.807
+13/09/2024,1,3,3,Ahmed,Sunny,16,6.214
+13/09/2024,2,4,8,Ahmed,Sunny,16,6.214
+13/09/2024,3,3,4,Ahmed,Sunny,16,6.214
+13/09/2024,4,4,5,Ahmed,Sunny,16,6.214
+13/09/2024,5,3,4,Ahmed,Sunny,16,6.214
+13/09/2024,6,4,5,Ahmed,Sunny,16,6.214
+13/09/2024,7,5,10,Ahmed,Sunny,16,6.214
+13/09/2024,8,3,4,Ahmed,Sunny,16,6.214
+13/09/2024,9,4,4,Ahmed,Sunny,16,6.214
+13/09/2024,10,4,8,Ahmed,Sunny,16,6.214
+13/09/2024,11,3,4,Ahmed,Sunny,16,6.214
+13/09/2024,12,4,6,Ahmed,Sunny,16,6.214
+13/09/2024,13,5,7,Ahmed,Sunny,16,6.214
+13/09/2024,14,4,7,Ahmed,Sunny,16,6.214
+13/09/2024,15,4,6,Ahmed,Sunny,16,6.214
+13/09/2024,16,5,6,Ahmed,Sunny,16,6.214
+13/09/2024,17,3,3,Ahmed,Sunny,16,6.214
+13/09/2024,18,4,6,Ahmed,Sunny,16,6.214
+02/06/2025,1,3,3,Ahmed,Sunny,19.5,9.321
+02/06/2025,2,4,7,Ahmed,Sunny,19.5,9.321
+02/06/2025,3,3,3,Ahmed,Sunny,19.5,9.321
+02/06/2025,4,4,9,Ahmed,Sunny,19.5,9.321
+02/06/2025,5,3,4,Ahmed,Sunny,19.5,9.321
+02/06/2025,6,4,5,Ahmed,Sunny,19.5,9.321
+02/06/2025,7,5,5,Ahmed,Sunny,19.5,9.321
+02/06/2025,8,3,4,Ahmed,Sunny,19.5,9.321
+02/06/2025,9,4,9,Ahmed,Sunny,19.5,9.321
+02/06/2025,10,4,7,Ahmed,Sunny,19.5,9.321
+02/06/2025,11,3,4,Ahmed,Sunny,19.5,9.321
+02/06/2025,12,4,6,Ahmed,Sunny,19.5,9.321
+02/06/2025,13,5,7,Ahmed,Sunny,19.5,9.321
+02/06/2025,14,4,4,Ahmed,Sunny,19.5,9.321
+02/06/2025,15,4,8,Ahmed,Sunny,19.5,9.321
+02/06/2025,16,5,5,Ahmed,Sunny,19.5,9.321
+02/06/2025,17,3,5,Ahmed,Sunny,19.5,9.321
+02/06/2025,18,4,7,Ahmed,Sunny,19.5,9.321
+16/06/2025,1,3,5,Ahmed,Partly Sunny,24,7.457
+16/06/2025,2,4,8,Ahmed,Partly Sunny,24,7.457
+16/06/2025,3,3,5,Ahmed,Partly Sunny,24,7.457
+16/06/2025,4,4,4,Ahmed,Partly Sunny,24,7.457
+16/06/2025,5,3,3,Ahmed,Partly Sunny,24,7.457
+16/06/2025,6,4,6,Ahmed,Partly Sunny,24,7.457
+16/06/2025,7,5,6,Ahmed,Partly Sunny,24,7.457
+16/06/2025,8,3,4,Ahmed,Partly Sunny,24,7.457
+16/06/2025,9,4,6,Ahmed,Partly Sunny,24,7.457
+16/06/2025,10,4,6,Ahmed,Partly Sunny,24,7.457
+16/06/2025,11,3,6,Ahmed,Partly Sunny,24,7.457
+16/06/2025,12,4,6,Ahmed,Partly Sunny,24,7.457
+16/06/2025,13,5,5,Ahmed,Partly Sunny,24,7.457
+16/06/2025,14,4,7,Ahmed,Partly Sunny,24,7.457
+16/06/2025,15,4,4,Ahmed,Partly Sunny,24,7.457
+16/06/2025,16,5,10,Ahmed,Partly Sunny,24,7.457
+16/06/2025,17,3,6,Ahmed,Partly Sunny,24,7.457
+16/06/2025,18,4,8,Ahmed,Partly Sunny,24,7.457
+31/07/2025,1,3,5,Dad,Partly Sunny,22,7.457
+31/07/2025,2,4,7,Dad,Partly Sunny,22,7.457
+31/07/2025,3,3,3,Dad,Partly Sunny,22,7.457
+31/07/2025,4,4,6,Dad,Partly Sunny,22,7.457
+31/07/2025,5,3,2,Dad,Partly Sunny,22,7.457
+31/07/2025,6,4,5,Dad,Partly Sunny,22,7.457
+31/07/2025,7,5,5,Dad,Partly Sunny,22,7.457
+31/07/2025,8,3,2,Dad,Partly Sunny,22,7.457
+31/07/2025,9,4,5,Dad,Partly Sunny,22,7.457
+31/07/2025,10,4,4,Dad,Partly Sunny,22,7.457
+31/07/2025,11,3,3,Dad,Partly Sunny,22,7.457
+31/07/2025,12,4,9,Dad,Partly Sunny,22,7.457
+31/07/2025,13,5,6,Dad,Partly Sunny,22,7.457
+31/07/2025,14,4,5,Dad,Partly Sunny,22,7.457
+31/07/2025,15,4,6,Dad,Partly Sunny,22,7.457
+31/07/2025,16,5,5,Dad,Partly Sunny,22,7.457
+31/07/2025,17,3,5,Dad,Partly Sunny,22,7.457
+31/07/2025,18,4,5,Dad,Partly Sunny,22,7.457
+04/08/2025,1,3,3,Dad,Partly Sunny,21.5,11.807
+04/08/2025,2,4,8,Dad,Partly Sunny,21.5,11.807
+04/08/2025,3,3,5,Dad,Partly Sunny,21.5,11.807
+04/08/2025,4,4,6,Dad,Partly Sunny,21.5,11.807
+04/08/2025,5,3,3,Dad,Partly Sunny,21.5,11.807
+04/08/2025,6,4,6,Dad,Partly Sunny,21.5,11.807
+04/08/2025,7,5,6,Dad,Partly Sunny,21.5,11.807
+04/08/2025,8,3,6,Dad,Partly Sunny,21.5,11.807
+04/08/2025,9,4,4,Dad,Partly Sunny,21.5,11.807
+04/08/2025,10,4,5,Dad,Partly Sunny,21.5,11.807
+04/08/2025,11,3,2,Dad,Partly Sunny,21.5,11.807
+04/08/2025,12,4,5,Dad,Partly Sunny,21.5,11.807
+04/08/2025,13,5,7,Dad,Partly Sunny,21.5,11.807
+04/08/2025,14,4,5,Dad,Partly Sunny,21.5,11.807
+04/08/2025,15,4,7,Dad,Partly Sunny,21.5,11.807
+04/08/2025,16,5,7,Dad,Partly Sunny,21.5,11.807
+04/08/2025,17,3,3,Dad,Partly Sunny,21.5,11.807
+04/08/2025,18,4,7,Dad,Partly Sunny,21.5,11.807
+07/08/2025,1,3,4,Ahmed,Partly Sunny,23,14.914
+07/08/2025,2,4,8,Ahmed,Partly Sunny,23,14.914
+07/08/2025,3,3,5,Ahmed,Partly Sunny,23,14.914
+07/08/2025,4,4,5,Ahmed,Partly Sunny,23,14.914
+07/08/2025,5,3,4,Ahmed,Partly Sunny,23,14.914
+07/08/2025,6,4,4,Ahmed,Partly Sunny,23,14.914
+07/08/2025,7,5,9,Ahmed,Partly Sunny,23,14.914
+07/08/2025,8,3,2,Ahmed,Partly Sunny,23,14.914
+07/08/2025,9,4,6,Ahmed,Partly Sunny,23,14.914
+07/08/2025,10,4,7,Ahmed,Partly Sunny,23,14.914
+07/08/2025,11,3,4,Ahmed,Partly Sunny,23,14.914
+07/08/2025,12,4,5,Ahmed,Partly Sunny,23,14.914
+07/08/2025,13,5,8,Ahmed,Partly Sunny,23,14.914
+07/08/2025,14,4,5,Ahmed,Partly Sunny,23,14.914
+07/08/2025,15,4,7,Ahmed,Partly Sunny,23,14.914
+07/08/2025,16,5,7,Ahmed,Partly Sunny,23,14.914
+07/08/2025,17,3,4,Ahmed,Partly Sunny,23,14.914
+07/08/2025,18,4,7,Ahmed,Partly Sunny,23,14.914
