@@ -11,7 +11,7 @@ This project analyses personal golf performance data over a series of 21 games. 
 The project includes 7 key visualisations:
 1. **Average "Over Par" on Each Hole** - highlights strengths and weaknesses per hole.
 
-![Average Over Par on Each Hole](Avg_Over_Par_on_each_hole.png)
+![Average Over Par on Each Hole](Visuals/Avg_Over_Par_on_each_hole.png)
 
 3. **First 10 Games Performance** – early trends in scores.  
 4. **Last 11 Games Performance** – shows recent performance trends.
