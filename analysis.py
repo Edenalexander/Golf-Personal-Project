@@ -6,9 +6,7 @@ from scipy.stats import linregress
 
 
 df = pd.read_csv("Golf_Scores.csv")
-df.head()
 df['Over Par'] = df['Score'] - df['Par']
-df.head()
 
 df['Date'] = pd.to_datetime(df['Date'], dayfirst=True)
 df = df.sort_values('Date')
@@ -17,18 +15,21 @@ df = df.sort_values('Date')
 
 round_totals = df.groupby('Date')['Over Par'].sum().reset_index()
 
-round_totals['Date'] = pd.to_datetime(round_totals['Date'], dayfirst=True)
+
 round_totals = round_totals.sort_values('Date')
 round_totals['Game'] = range(1, len(round_totals) + 1)
 print(round_totals['Game'].dtype)
 print(round_totals)
 
-Scatter = round_totals.plot(kind='scatter', x='Game', y='Over Par')
+scatter = round_totals.plot(kind='scatter', x='Game', y='Over Par')
+plt.title("How my 'Over Par' changed over 21 Games")
 x = np.arange(len(round_totals))
+y = round_totals['Over Par']
 m, b = np.polyfit(x, y, 1)
 smoothed = lowess(round_totals['Over Par'], round_totals['Game'], frac=0.3)
 plt.plot(round_totals['Game'], m*x + b, label='Best Fit')
 plt.xticks(rotation=45)
+plt.show()
 
 
 
@@ -42,7 +43,7 @@ plt.show()
 #What hole do I find the hardest and why?
 
 hole_totals = df.groupby('Hole')['Over Par'].sum().reset_index()
-hole_totals['Avg Over Par'] = hole_totals['Over Par'] / 21
+hole_totals['Avg Over Par'] = hole_totals['Over Par'] / len(round_totals)
 hole_totals.plot(kind= 'bar', x= 'Hole', y= 'Avg Over Par')
 plt.show()
 
@@ -56,8 +57,8 @@ first_10_games_with_holes = first_10_games.groupby('Hole')['Over Par'].sum().res
 
 last_11_games_with_holes = last_11_games.groupby('Hole')['Over Par'].sum().reset_index()
 
-first_10_games_with_holes['Avg Over Par'] = first_10_games_with_holes['Over Par'] / 10
-last_11_games_with_holes['Avg Over Par'] = last_11_games_with_holes['Over Par'] / 11
+first_10_games_with_holes['Avg Over Par'] = first_10_games_with_holes['Over Par'] / first_10_games.groupby('Hole')['Over Par'].count().values
+last_11_games_with_holes['Avg Over Par'] = last_11_games_with_holes['Over Par'] / last_11_games.groupby('Hole')['Over Par'].count().values
 print(first_10_games_with_holes)
 print(last_11_games_with_holes)
 
@@ -110,4 +111,3 @@ plt.show()
 slope, intercept, r_value, p_value, std_err = linregress(x,y)
 print(f"Slope: {slope}")
 print(f"p_value: {p_value}")
-
